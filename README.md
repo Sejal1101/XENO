@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Contact List Application</title>
+  
 </head>
 <body>
   <h1>Contact List Full Stack Application</h1>
