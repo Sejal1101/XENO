@@ -18,12 +18,14 @@
   </ol>
   
   <h2>Requirements</h2>
+  
+   <p>
+    For login Use <b>"admin"</b> as the username and <b>"admin"</b> as the password. After login, open a screen which shows the list of existing contacts created by the logged-in user.
+  </p>
   <p>
     The app should consist of an authentication framework (username/password or Google or Facebook) supported from the backend.
   </p>
-  <p>
-    For login Use <b>admin</b> as the username and <b>admin</b> as the password. After login, open a screen which shows the list of existing contacts created by the logged-in user.
-  </p>
+ 
   <p>
     On the listing screen itself, the user has the option to create a new contact and edit/delete an existing contact.
   </p>
