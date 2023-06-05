@@ -39,8 +39,8 @@
   <ol>
     <li>Clone the repository</li>
     <li>Install the necessary dependencies</li>
-    <li>Set up the backend server using Java or Node.js</li>
-    <li>Set up the database using MySQL or MongoDB</li>
+    <li>Set up the backend server using  Node.js</li>
+    <li>Set up the database using  MongoDB</li>
     <li>Start the application</li>
     <li>Access the application in your web browser</li>
   </ol>
